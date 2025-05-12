@@ -32,6 +32,11 @@
       ]
     }
   },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/sanecodeguy/QT-QML-Log-Remover.git"
+},
+
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",

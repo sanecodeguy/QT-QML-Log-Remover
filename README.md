@@ -22,7 +22,8 @@ This Visual Studio Code extension removes all Qt log statements like `qDebug()`,
 
 ## Demo
 
-![Demo](resources/demo.gif) <!-- Placeholder path; replace when actual GIF is ready -->
+![Demo](https://raw.githubusercontent.com/sanecodeguy/QT-QML-Log-Remover/master/resources/demo.gif)
+
 
 ## Known Limitations
 
